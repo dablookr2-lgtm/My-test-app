@@ -197,6 +197,14 @@ body{
     border:2px solid #1b5e20;
 }
 
+/* ⚪ UNSELECTED / NOT ANSWERED */
+.unselected{
+    background:#eeeeee;
+    color:#444;
+    font-weight:bold;
+    border:2px solid #bdbdbd;
+}
+
 /* ❌ WRONG (VERY CLEAR RED) */
 .wrong{
     background:#d32f2f;
